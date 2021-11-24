@@ -1,0 +1,13 @@
+{
+  "id" : "https://magmatz.github.io/Michelstadt/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in magmatz/Michelstadt project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://magmatz.github.io/Michelstadt/manifests/D693_Manifest.json",
+    "label" : "Sermones et varia a Nicolao Matz collecta"
+  } ]
+}
